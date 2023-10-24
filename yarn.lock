@@ -5084,9 +5084,7 @@ gatsby-react-router-scroll@^2.1.11:
     warning "^3.0.0"
 
 gatsby-source-datocms@^2.1.18:
-  version "2.1.18"
-  resolved "https://registry.yarnpkg.com/gatsby-source-datocms/-/gatsby-source-datocms-2.1.18.tgz#f28f6e73109b7ed6d3382d67e02aa95541ed68dd"
-  integrity sha512-aqk6Nee9qNY0RXG0d4jrVPcVR+n81rkSKX1P82SXwvKvsH7IvEXQXbuFKqfaMPFxtwPybwtpjwc3X1FbJf6l6w==
+  version "2.6.18"
   dependencies:
     core-js "^3.2.1"
     datocms-client "~3.0.3"
